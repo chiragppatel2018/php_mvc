@@ -1,0 +1,16 @@
+{
+    "name": "chirag/student_management",
+    "authors": [
+        {
+            "name": "Chirag Patel",
+            "email": "chiragp.patel2018@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"./"
+        }
+    },
+    "require": {
+	}
+}
